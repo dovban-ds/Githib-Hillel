@@ -2,8 +2,8 @@
 body {
   width: 1200px;
   margin: 0 auto;
-  background-color: #161616;
-  color: #ebebeb;
+  background-color: #2b2b2b;
+  color: #e7e6e6;
 }
 
 /* Fix */
@@ -38,7 +38,7 @@ body {
 
 .navigation a {
   text-decoration: none;
-  color: #ebebeb;
+  color: #e7e6e6;
   margin-right: 20px;
   font-family: "Nunito Sans";
   font-size: 16px;
@@ -87,7 +87,6 @@ body {
   font-size: 64px;
   line-height: 120%;
   text-align: center;
-  color: #ebebeb;
 }
 
 .product p {
@@ -95,7 +94,6 @@ body {
   font-size: 24px;
   line-height: 120%;
   text-align: center;
-  color: #ebebeb;
   margin-top: 30px;
 }
 
@@ -110,7 +108,6 @@ body {
   font-family: "Nunito Sans";
   font-size: 53px;
   line-height: 120%;
-  color: #ebebeb;
   margin-bottom: 60px;
 }
 
@@ -119,7 +116,6 @@ body {
   font-family: "Nunito Sans";
   font-size: 16px;
   line-height: 150%;
-  color: #ebebeb;
   width: 265px;
   display: inline-block;
   margin-right: 50px;
@@ -171,14 +167,12 @@ body {
   font-family: "Nunito Sans";
   font-size: 39px;
   line-height: 120%;
-  color: #ebebeb;
 }
 
 .left-box p {
   font-family: "Nunito Sans";
   font-size: 18px;
   line-height: 28px;
-  color: #ebebeb;
   margin-top: 20px;
 }
 
@@ -186,7 +180,6 @@ body {
   font-family: "Nunito Sans";
   font-size: 31px;
   line-height: 42px;
-  color: #ebebeb;
   float: right;
   width: 430px;
   height: 215px;
@@ -227,7 +220,6 @@ body {
   font-family: "Nunito Sans";
   font-size: 25px;
   line-height: 34px;
-  color: #ebebeb;
   margin-bottom: 20px;
 }
 
@@ -235,7 +227,6 @@ body {
   font-family: "Nunito Sans";
   font-size: 16px;
   line-height: 150%;
-  color: #ebebeb;
 }
 
 .right-ibox {
@@ -260,7 +251,6 @@ body {
   font-size: 53px;
   line-height: 120%;
   text-align: center;
-  color: #ebebeb;
   margin-bottom: 80px;
 }
 
@@ -347,5 +337,4 @@ footer {
   font-family: "Nunito Sans";
   font-size: 14px;
   line-height: 150%;
-  color: #ebebeb;
 }

@@ -87,7 +87,6 @@ body {
   font-size: 64px;
   line-height: 120%;
   text-align: center;
-  color: #2b2b2b;
 }
 
 .product p {
@@ -95,7 +94,6 @@ body {
   font-size: 24px;
   line-height: 120%;
   text-align: center;
-  color: #2b2b2b;
   margin-top: 30px;
 }
 
@@ -110,7 +108,6 @@ body {
   font-family: "Nunito Sans";
   font-size: 53px;
   line-height: 120%;
-  color: #2b2b2b;
   margin-bottom: 60px;
 }
 
@@ -119,7 +116,6 @@ body {
   font-family: "Nunito Sans";
   font-size: 16px;
   line-height: 150%;
-  color: #2b2b2b;
   width: 265px;
   display: inline-block;
   margin-right: 50px;
@@ -138,8 +134,8 @@ body {
   font-weight: 700;
   font-size: 18px;
   line-height: 28px;
-  color: #2b2b2b;
   margin-top: 20px;
+  color: #2b2b2b;
 }
 
 .lsmall-box a i,
@@ -171,14 +167,12 @@ body {
   font-family: "Nunito Sans";
   font-size: 39px;
   line-height: 120%;
-  color: #2b2b2b;
 }
 
 .left-box p {
   font-family: "Nunito Sans";
   font-size: 18px;
   line-height: 28px;
-  color: #2b2b2b;
   margin-top: 20px;
 }
 
@@ -186,7 +180,6 @@ body {
   font-family: "Nunito Sans";
   font-size: 31px;
   line-height: 42px;
-  color: #2b2b2b;
   float: right;
   width: 430px;
   height: 215px;
@@ -227,7 +220,6 @@ body {
   font-family: "Nunito Sans";
   font-size: 25px;
   line-height: 34px;
-  color: #2b2b2b;
   margin-bottom: 20px;
 }
 
@@ -235,7 +227,6 @@ body {
   font-family: "Nunito Sans";
   font-size: 16px;
   line-height: 150%;
-  color: #2b2b2b;
 }
 
 .right-ibox {
@@ -260,7 +251,6 @@ body {
   font-size: 53px;
   line-height: 120%;
   text-align: center;
-  color: #2b2b2b;
   margin-bottom: 80px;
 }
 
@@ -284,7 +274,6 @@ body {
   font-family: "Nunito Sans";
   font-size: 18px;
   line-height: 28px;
-  color: #2b2b2b;
   margin-bottom: 20px;
 }
 
@@ -292,14 +281,12 @@ body {
   font-family: "Nunito Sans";
   font-size: 18px;
   line-height: 28px;
-  color: #2b2b2b;
 }
 
 .text3 {
   font-family: "Nunito Sans";
   font-size: 16px;
   line-height: 150%;
-  color: #2b2b2b;
 }
 
 .left-card {
@@ -347,5 +334,4 @@ footer {
   font-family: "Nunito Sans";
   font-size: 14px;
   line-height: 150%;
-  color: #2b2b2b;
 }
